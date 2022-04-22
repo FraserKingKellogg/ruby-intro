@@ -4,6 +4,13 @@
 
 # EXERCISE
 # Create a "shared" shopping list with a friend
+shopping_list = [["milk", "eggs", "bacon"]], [["beer", "cookies", "apples"]]
+
+#shared list you can add 2 lists
+
+sorted_list = shopping_list.sort
+puts sorted_list
+
 # Create two data structures - one for your list of stuff, and one
 # for your friend, e.g. you want milk, eggs, and bacon, and
 # your friend wants beer, cookies, and apples.
